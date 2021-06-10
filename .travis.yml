@@ -1,8 +1,4 @@
 os: linux
 arch: ppc64le
 language: haskell
-ghc:
-  - "7.10"
-  - "7.8"
-  - "7.6"
-  - "8.4.1"
+dist: bionic
